@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() {
-    int a,b,c,d,e,f,g;
-    scanf("%d%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f,&g);
+    int 1,2,3,4,5,6,7;
+    scanf("%d%d%d%d%d%d%d",&1,&2,&3,&4,&5,&6,&7);
     if(1){
         printf("Monday");
     }
