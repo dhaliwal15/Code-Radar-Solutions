@@ -2,25 +2,25 @@
 int main() {
     int a,b,c,d,e,f,g;
     scanf("%d%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f,&g);
-    if(a){
+    if(1){
         printf("Monday");
     }
-    else if(b){
+    else if(2){
         printf("Tuesday");
     }
-    else if(c){
+    else if(3){
         printf("Wednesday");
     }
-    else if(d){
+    else if(4){
         printf("Thursday");
     }
-    else if(e){
+    else if(5){
         printf("Friday");
     }
-    else if(f){
+    else if(6){
         printf("Saturday");
     }
-    else if(g){
+    else if(7){
         printf("Sunday");
     }
     else{
