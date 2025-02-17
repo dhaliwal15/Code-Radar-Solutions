@@ -1,26 +1,26 @@
 #include<stdio.h>
 int main() {
-    int 1,2,3,4,5,6,7;
-    scanf("%d%d%d%d%d%d%d",&1,&2,&3,&4,&5,&6,&7);
-    if(1){
+    int a,b,c,d,e,f,g;
+    scanf("%d%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f,&g);
+    if(a==1){
         printf("Monday");
     }
-    else if(2){
+    else if(b==2){
         printf("Tuesday");
     }
-    else if(3){
+    else if(c==3){
         printf("Wednesday");
     }
-    else if(4){
+    else if(d==4){
         printf("Thursday");
     }
-    else if(5){
+    else if(e==5){
         printf("Friday");
     }
-    else if(6){
+    else if(f==6){
         printf("Saturday");
     }
-    else if(7){
+    else if(g==7){
         printf("Sunday");
     }
     else{
