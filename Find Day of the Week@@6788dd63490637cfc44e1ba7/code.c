@@ -5,22 +5,22 @@ int main() {
     if(a){
         printf("Monday");
     }
-    else if (b){
+    else if(b){
         printf("Tuesday");
     }
-    else if (c){
+    else if(c){
         printf("Wednesday");
     }
-    else if (d){
+    else if(d){
         printf("Thursday");
     }
-    else if (e){
+    else if(e){
         printf("Friday");
     }
-    else if (f){
+    else if(f){
         printf("Saturday");
     }
-    else if (g){
+    else if(g){
         printf("Sunday");
     }
     else{
