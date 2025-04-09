@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int a;
-    scanf("%d,&a");
+    scanf("%d",&a);
     int b=a;
     for(int i=0;i<a;i++){
         for(int j=0;j<a;j++){
@@ -9,7 +9,7 @@ int main() {
                 printf(" ");
             }
             else{
-                printf("*");
+                printf("* ");
             }
         }
         printf("\n");
