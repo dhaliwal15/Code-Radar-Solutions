@@ -4,7 +4,7 @@ int main(){
     scanf("%d",&n);
     int s;
     while(s=1){
-    printf("%d x %d=s*n/n", s,n,&n );
+    printf("%d x %d = s*n/n", s,n,&n );
  }
     return 0;
 }
